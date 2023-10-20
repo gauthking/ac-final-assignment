@@ -12,9 +12,9 @@ NOTE: The backend API for this project is presenet in a separate repository - ht
 
 - Frontend - React Native
 - Backend API - Express JS
-- Database - MongoDB Atlas
+- Database - MongoDB Atlas - NoSQL Collections
 - Number of Screens - Home Page, Create Todo Page, View Todo Page, Update Todo Page.
-
+- Design Inspiration - Simple and Minimal as Explained in the FFCS Tutorials 😉
 ## Run Locally
 
 Clone the project
