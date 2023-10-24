@@ -6,7 +6,7 @@ NOTE: The backend API for this project is presenet in a separate repository - ht
 
 ## Members & Collaborators
 [![karthik](https://img.shields.io/badge/Karthik-1DA1F2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/darkpanther25)
-[![karthik](https://img.shields.io/badge/Chiranjeev-1DA1F2?style=for-the-badge&logo=github&logoColor=black)]([https://github.com/chiranjeev13](https://github.com/chiranjeev13))
+[![karthik](https://img.shields.io/badge/Chiranjeev-1DA1F2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/chiranjeev13)
 
 ## Tech Stack and Features
 
